@@ -1,3 +1,8 @@
+# user define
+config.json
+see.json
+comments/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
